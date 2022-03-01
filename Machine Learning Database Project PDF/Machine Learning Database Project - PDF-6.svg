@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<clipPath id="cp70">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 2551 0 L 2551 3301 L 0 3301 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp70)">
+<path d="M 0 0 L 816 0 L 816 1056 L 0 1056 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp71">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 62.500005 L 379.1667 62.500005 L 379.1667 100.00001 L 0 100.00001 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp71)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="22" x="26.453125 30.901125 33.125127 37.573129 39.797128 44.24513 48.69313 50.91713 53.14113 57.58913 62.037134 64.26113 68.70913 73.15713 75.38113 80.717128">3/1/22, 12:31 AM</tspan></text>
+</g>
+<clipPath id="cp72">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 379.1667 62.500005 L 2550.0003 62.500005 L 2550.0003 100.00001 L 379.1667 100.00001 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp72)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="22" x="261.53126 268.19526 272.64326 276.64326 281.09126 282.86726 287.31526 291.76325 293.98725 298.43525 302.88325 307.33125 309.99525 314.44325 316.21925 320.66725 325.11524 327.33924 333.11524 337.56324 339.78724 344.23524 348.68324 353.13124 357.13124 361.57923 363.80323 369.13923 371.80323 376.25123 378.02723 382.47523 386.47523 388.69923 390.92323 393.58723 395.81123 401.58723 406.03523 407.81123 412.25923 416.7072 421.1552 423.8192 428.2672 430.4912 434.9392 437.6032">Machine Learning Database Project - Colaboratory</tspan></text>
+</g>
+<clipPath id="cp73">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 3200.0003 L 2358.3336 3200.0003 L 2358.3336 3237.5003 L 0 3237.5003 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp73)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="26.453125 30.901125 33.125127 35.349126 39.797128 43.797128 46.021127 48.245126 50.469125 54.469125 58.917127 60.693128 65.14113 69.58913 71.813129 74.47713 78.925128 82.925128 87.37312 91.82112 94.48512 98.48512 102.93312 105.15712 109.60512 114.053119 118.501117 122.94911 124.72511 129.17311 131.39711 135.39711 139.84511 146.50911 148.73311 153.1811 155.84511 157.62111 161.62111 166.0691 168.2931 172.7411 176.7411 178.5171 184.2931 188.7411 193.6291 197.6291 203.4051 210.0691 214.5171 218.5171 222.9651 228.3011 232.7491 239.4131 243.4131 249.1891 254.9651 257.6291 262.5171 266.9651 271.4131 276.74909 280.74909 285.19709 289.07814 296.63014 298.85414 303.30213 307.75013 310.41413 314.86213 321.52613 325.97413 329.97413 333.97413 336.63813 341.08613 342.86213 344.63813 348.64454 353.09254 357.76454 362.21253 366.66053 372.43653 376.88453 380.88453 385.77253 391.10853 395.10853 400.44453 407.10853 413.33253 419.99653 425.33253 429.78053 432.44453 434.22053 438.66853 440.89253 447.55653 452.00453 456.4525 460.9005 465.5725 467.7965 470.4605 474.9085">https://colab.research.google.com/drive/1siw_FvUMuz4E8msCCrT42PyuLWtborgM#scrollTo=boRLxFKsSmOm&#x0026;printMode=true</tspan></text>
+</g>
+<clipPath id="cp74">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 2358.3336 3200.0003 L 2550.0003 3200.0003 L 2550.0003 3237.5003 L 2358.3336 3237.5003 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp74)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="569.9531">6</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="574.3906">/</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="576.6094 581.0574">15</tspan></text>
+</g>
+<clipPath id="cp75">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.83301 L 2433.3333 120.83301 L 2433.3333 3183.333 L 120.833339 3183.333 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp75)">
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 0 0 L 740 0 L 740 14482 L 0 14482 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp76">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.83301 L 2433.3333 120.83301 L 2433.3333 3183.333 L 120.833339 3183.333 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp76)">
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 0 0 L 740 0 L 740 14457 L 0 14457 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp77">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.83301 L 2433.3333 120.83301 L 2433.3333 3183.333 L 120.833339 3183.333 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp77)">
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 0 0 L 740 0 L 740 14457 L 0 14457 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 18 17 L 736 17 L 736 14057 L 18 14057 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 18 4655 L 736 4655 L 736 5100 L 18 5100 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp78">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 302.08335 120.83301 L 2417.7083 120.83301 L 2417.7083 773.958 L 302.08335 773.958 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp78)">
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4904" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">0      1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4904" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4921" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">1      1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4921" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4939" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">2      1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4939" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4956" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">3      1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4956" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4973" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">4      1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4973" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4991" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">      ..</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="4991" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5008" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">644    1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5008" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5026" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">645    1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5026" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5043" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">646    0</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5043" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5060" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">647    1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5060" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5078" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998">648    1</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5078" x="124.578128"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5095" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003">Name: G3, Length: 649, dtype: int64</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5095" x="332.39064"> </tspan></text>
+</g>
+<clipPath id="cp79">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.83301 L 2433.3333 120.83301 L 2433.3333 3183.333 L 120.833339 3183.333 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp79)">
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 18 5112 L 736 5112 L 736 6603 L 18 6603 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 18 5112 L 736 5112 L 736 6148 L 18 6148 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-3646)" d="M 18 5122 L 728 5122 L 728 6148 L 18 6148 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998">data = df.drop</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="131.75">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="139.4375 147.1375 154.8375 162.53749 170.23749 177.93749 185.63748 193.33748">columns=</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="201.01563">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="208.70313 216.40312 224.10312 231.80312">"G3"</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="239.48438 247.18437">])</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5136" x="254.875"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5174" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2 308.90003 316.60005 324.30006 332.00007 339.70008 347.4001 355.1001 362.8001 370.50013 378.20014 385.90016 393.60017 401.30018">#0 for Gabriel Pereira, 1 for Mousinho da Silveira</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5174" x="408.85939"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6">school = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="93.265628">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="100.953128 108.65312 116.35312 124.053119">'GP'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="131.73438">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="139.42188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="147.10938">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="154.79688">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="162.48438"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="170.17188 177.87187 185.57187 193.27187">'MS'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="200.95313">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="208.64063"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="216.32813">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="224.01563">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5193" x="231.70313"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998">data.school = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="131.75">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="139.4375 147.1375 154.8375 162.53749 170.23749 177.93749">school</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="185.60938">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="193.29688 200.99687 208.69687 216.39687">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="224.07813">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="231.76563"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="239.45313 247.15312 254.85312">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="262.53126 270.23127 277.93128 285.6313 293.3313 301.0313"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="308.70314 316.40315">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="324.09376 331.79377 339.49378 347.1938 354.8938 362.5938 370.29383 377.99385 385.69386 393.39387 401.09388 408.79389"> data.school</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="416.45314">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5212" x="424.14064"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5250" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996">#0 for female, 1 for male</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5250" x="216.42188"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="24 31.7 39.4 47.100004 54.800004 62.500005">sex = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="70.171878">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="77.859378 85.55937 93.25937">'F'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="100.9375">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="108.625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="116.3125">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="124">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="131.6875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="139.375 147.075 154.775">'M'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="162.45313">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="170.14063"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="177.82813">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="185.51563">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5269" x="193.20313"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999">data.sex = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="108.65625">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="116.34375 124.04375 131.74375">sex</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="139.42188">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="147.10938 154.80937 162.50937 170.20937">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="177.89063">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="185.57813"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="193.26563 200.96562 208.66562">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="216.34375 224.04375 231.74375 239.44374 247.14374 254.84374"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="262.51564 270.21565">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="277.90626 285.60627 293.30628 301.0063 308.7063 316.4063 324.10633 331.80635 339.50636"> data.sex</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="347.17189">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5288" x="354.85939"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5326" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996">#0 for urban, 1 for rural</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5326" x="216.42188"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999">address = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="100.96875">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="108.65625 116.35625 124.056247">'U'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="131.73438">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="139.42188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="147.10938">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="154.79688">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="162.48438"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="170.17188 177.87187 185.57187">'R'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="193.25">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="200.9375"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="208.625">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5345" x="216.3125">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999">data.address = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="139.45313">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="147.14063 154.84062 162.54062 170.24062 177.94062 185.64061 193.3406">address</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="201.01563">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="208.70313 216.40312 224.10312 231.80312">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="239.48438">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="247.17188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="254.85938 262.5594 270.2594">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="277.9375 285.6375 293.33753 301.03755 308.73756 316.43757"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="324.10939 331.8094">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="339.5 347.2 354.90003 362.60005 370.30006 378.00007 385.70008 393.4001 401.1001 408.8001 416.50013 424.20014 431.90016"> data.address</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="439.5625">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5364" x="447.25"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5402" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2 308.90003 316.60005 324.30006 332.00007 339.70008 347.4001 355.1001 362.8001 370.50013 378.20014 385.90016 393.60017 401.30018">#0 for less than or equal to 3, 1 for greater than</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5402" x="408.85939 416.5594 424.2594 431.9594 439.65943 447.35945"> three</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5402" x="455.03126"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999">famsize = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="100.96875">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="108.65625 116.35625 124.056247 131.75624 139.45624">'LE3'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="147.14063">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="154.82813"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="162.51563">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="170.20313">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="177.89063"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="185.57813 193.27812 200.97812 208.67812 216.37812">'GT3'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="224.0625">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="231.75"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="239.4375">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="247.125">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5421" x="254.8125"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999">data.famsize = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="139.45313">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="147.14063 154.84062 162.54062 170.24062 177.94062 185.64061 193.3406">famsize</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="201.01563">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="208.70313 216.40312 224.10312 231.80312">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="239.48438">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="247.17188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="254.85938 262.5594 270.2594">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="277.9375 285.6375 293.33753 301.03755 308.73756 316.43757"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="324.10939 331.8094">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="339.5 347.2 354.90003 362.60005 370.30006 378.00007 385.70008 393.4001 401.1001 408.8001 416.50013 424.20014 431.90016"> data.famsize</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="439.5625">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5440" x="447.25"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5478" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2 308.90003 316.60005 324.30006 332.00007 339.70008">#0 for living together, 1 for living apart</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5478" x="347.28126"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999">Pstatus = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="100.96875">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="108.65625 116.35625 124.056247">'T'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="131.73438">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="139.42188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="147.10938">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="154.79688">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="162.48438"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="170.17188 177.87187 185.57187">'A'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="193.25">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="200.9375"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="208.625">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5497" x="216.3125">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999">data.Pstatus = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="139.45313">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="147.14063 154.84062 162.54062 170.24062 177.94062 185.64061 193.3406">Pstatus</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="201.01563">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="208.70313 216.40312 224.10312 231.80312">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="239.48438">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="247.17188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="254.85938 262.5594 270.2594">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="277.9375 285.6375 293.33753 301.03755 308.73756 316.43757"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="324.10939 331.8094">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="339.5 347.2 354.90003 362.60005 370.30006 378.00007 385.70008 393.4001 401.1001 408.8001 416.50013 424.20014 431.90016"> data.Pstatus</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="439.5625">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5516" x="447.25"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5554" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2 308.90003 316.60005 324.30006 332.00007 339.70008 347.4001 355.1001 362.8001 370.50013 378.20014 385.90016 393.60017 401.30018">#0 for teacher, 1 for health care, 2 for services,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5554" x="408.85939 416.5594 424.2594 431.9594 439.65943 447.35945 455.05946 462.75947 470.45948 478.1595 485.8595 493.5595 501.25953 508.95954 516.65957 524.35958 532.0596 539.7596 547.4596 555.1596 562.8596 570.55966 578.25967 585.95968 593.65969 601.3597 609.0597"> 3 for at home, 4 for other</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5554" x="616.6719"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008">Mjob = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="77.875">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="85.5625 93.2625 100.962497 108.66249 116.36249 124.062488 131.76248 139.46248 147.16248">'teacher'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="154.82813">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="162.51563"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="170.20313">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="177.89063">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="185.57813"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="193.26563 200.96562 208.66562 216.36562 224.06562 231.76561 239.4656 247.1656">'health'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="254.84375">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="262.53126"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="270.21876">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="277.90626">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="285.59376"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="293.28126 300.98127 308.68128 316.3813 324.0813 331.7813 339.48133 347.18135 354.88136 362.58137">'services'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="370.25">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="377.9375"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="385.625">2</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="393.3125">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="401"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="408.6875 416.3875 424.08753 431.78755 439.48756 447.18757 454.88758 462.5876 470.2876">'at_home'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="477.95314">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="485.64064"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="493.32814">3</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="501.01564">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="508.70314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="516.3906 524.09066 531.79067 539.49069 547.1907 554.8907 562.5907">'other'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="570.2656">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="577.9531"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="585.6406">4</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="593.3281">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5573" x="601.0156"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999">data.Mjob = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="116.359378">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="124.046878 131.74687 139.44687 147.14687">Mjob</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="154.82813">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="162.51563 170.21562 177.91562 185.61562">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="193.29688">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="200.98438"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="208.67188 216.37187 224.07187">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="231.75 239.45 247.15 254.84999 262.55 270.25"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="277.92189 285.6219">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="293.3125 301.0125 308.71253 316.41255 324.11256 331.81257 339.51258 347.2126 354.9126 362.6126"> data.Mjob</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="370.28126">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5592" x="377.96876"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999">data.Fjob = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="116.359378">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="124.046878 131.74687 139.44687 147.14687">Mjob</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="154.82813">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="162.51563 170.21562 177.91562 185.61562">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="193.29688">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="200.98438"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="208.67188 216.37187 224.07187">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="231.75 239.45 247.15 254.84999 262.55 270.25"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="277.92189 285.6219">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="293.3125 301.0125 308.71253 316.41255 324.11256 331.81257 339.51258 347.2126 354.9126 362.6126"> data.Fjob</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="370.28126">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5611" x="377.96876"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5649" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2 308.90003 316.60005 324.30006 332.00007 339.70008 347.4001 355.1001 362.8001 370.50013 378.20014 385.90016 393.60017 401.30018">#0 for close to home, 1 for school reputation, 2 f</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5649" x="408.85939 416.5594 424.2594 431.9594 439.65943 447.35945 455.05946 462.75947 470.45948 478.1595 485.8595 493.5595 501.25953 508.95954 516.65957 524.35958 532.0596 539.7596 547.4596 555.1596 562.8596 570.55966 578.25967 585.95968 593.65969 601.3597 609.0597 616.7597 624.4597 632.1597 639.85977 647.55978 655.25979">or course preference, 3 for other</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5649" x="662.8594"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6">reason = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="93.265628">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="100.953128 108.65312 116.35312 124.053119 131.75312 139.45311">'home'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="147.125">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="154.8125"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="162.5">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="170.1875">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="177.875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="185.5625 193.2625 200.9625 208.66249 216.36249 224.06249 231.76248 239.46248 247.16248 254.86248 262.56248 270.26249">'reputation'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="277.92189">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="285.60939"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="293.29689">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="300.98439">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="308.67189"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="316.35939 324.0594 331.7594 339.4594 347.15943 354.85945 362.55946 370.25947">'course'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="377.9375">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="385.625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="393.3125">2</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="401">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="408.6875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="416.375 424.075 431.77503 439.47505 447.17506 454.87507 462.57508">'other'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="470.25">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="477.9375"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="485.625">3</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5668" x="493.3125">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998">data.reason = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="131.75">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="139.4375 147.1375 154.8375 162.53749 170.23749 177.93749">reason</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="185.60938">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="193.29688 200.99687 208.69687 216.39687">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="224.07813">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="231.76563"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="239.45313 247.15312 254.85312">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="262.53126 270.23127 277.93128 285.6313 293.3313 301.0313"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="308.70314 316.40315">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="324.09376 331.79377 339.49378 347.1938 354.8938 362.5938 370.29383 377.99385 385.69386 393.39387 401.09388 408.79389"> data.reason</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="416.45314">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5687" x="424.14064"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5725" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2 308.90003 316.60005 324.30006">#0 for mother, 1 for father, 2 for other</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5725" x="331.89064"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999">guardian = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="108.65625">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="116.34375 124.04375 131.74375 139.44374 147.14374 154.84374 162.54373 170.24373">'mother'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="177.92188">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="185.60938"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="193.29688">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="200.98438">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="208.67188"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="216.35938 224.05937 231.75937 239.45937 247.15937 254.85936 262.55937 270.25938">'father'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="277.9375">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="285.625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="293.3125">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="301">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="308.6875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="316.375 324.075 331.77503 339.47505 347.17506 354.87507 362.57508">'other'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="370.25">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="377.9375"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="385.625">2</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5744" x="393.3125">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999">data.guardian = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="147.15625">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="154.84375 162.54375 170.24375 177.94374 185.64374 193.34374 201.04373 208.74373">guardian</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="216.42188">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="224.10938 231.80937 239.50937 247.20937">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="254.89063">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="262.57814"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="270.26564 277.96565 285.66566">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="293.34376 301.04377 308.74378 316.4438 324.1438 331.8438"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="339.51564 347.21565">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="354.90626 362.60627 370.30628 378.0063 385.7063 393.4063 401.10633 408.80635 416.50636 424.20637 431.90638 439.60639 447.3064 455.0064"> data.guardian</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="462.65626">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5763" x="470.34376"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5801" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998">#0 for yes, 1 for no</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5801" x="177.9375"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999">yesOrNo = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="100.96875">{</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="108.65625 116.35625 124.056247 131.75624 139.45624">'yes'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="147.14063">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="154.82813"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="162.51563">0</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="170.20313">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="177.89063"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="185.57813 193.27812 200.97812 208.67812">'no'</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="216.35938">:</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="224.04688"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="231.73438">1</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="239.42188">}</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5829" x="247.10938"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998">data.schoolsup = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="154.84375">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="162.53125 170.23125 177.93125 185.63124 193.33124 201.03124 208.73123">yesOrNo</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="216.40625">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="224.09375 231.79375 239.49375 247.19374">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="254.875">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="262.5625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="270.25 277.95 285.65003">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="293.32814 301.02815 308.72816 316.42817 324.12818 331.8282"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="339.5 347.2">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="354.89064 362.59065 370.29066 377.99067 385.69068 393.3907 401.0907 408.7907 416.49073 424.19075 431.89076 439.59077 447.29078 454.99079 462.6908"> data.schoolsup</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="470.34376">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5848" x="478.03126"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998">data.famsup = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="131.75">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="139.4375 147.1375 154.8375 162.53749 170.23749 177.93749 185.63748">yesOrNo</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="193.3125">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="201 208.7 216.4 224.09999">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="231.78125">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="239.46875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="247.15625 254.85625 262.55625">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="270.23439 277.9344 285.6344 293.3344 301.03443 308.73445"> item </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="316.40626 324.10627">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="331.79689 339.4969 347.1969 354.8969 362.59693 370.29695 377.99696 385.69697 393.39698 401.097 408.797 416.497"> data.famsup</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="424.15626">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5867" x="431.84376"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="24 31.7 39.4 47.100004 62.48633 70.186328 77.88632 85.58632">datapaid</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="116.359378">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="124.046878 131.74687 139.44687 147.14687 154.84687 162.54686 170.24686">yesOrNo</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="177.92188">[</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="185.60938 193.30937 201.00937 208.70937">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="216.39063">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="231.76563 239.46562 247.16562">for</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="262.54103 270.24104 277.94105 285.64106">item</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="301.01564 308.71565">in</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="324.10353 331.80354 339.50355 347.20356 362.58985 370.28987 377.98988 385.68989">datapaid</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -3646)" font-size="14" font-family="Consolas"><tspan y="5886" x="393.375">]</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+</g>
+</g>
+</svg>

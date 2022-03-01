@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<clipPath id="cp107">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 2551 0 L 2551 3301 L 0 3301 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp107)">
+<path d="M 0 0 L 816 0 L 816 1056 L 0 1056 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp108">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 62.500005 L 379.1667 62.500005 L 379.1667 100.00001 L 0 100.00001 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp108)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="22" x="26.453125 30.901125 33.125127 37.573129 39.797128 44.24513 48.69313 50.91713 53.14113 57.58913 62.037134 64.26113 68.70913 73.15713 75.38113 80.717128">3/1/22, 12:31 AM</tspan></text>
+</g>
+<clipPath id="cp109">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 379.1667 62.500005 L 2550.0003 62.500005 L 2550.0003 100.00001 L 379.1667 100.00001 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp109)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="22" x="261.53126 268.19526 272.64326 276.64326 281.09126 282.86726 287.31526 291.76325 293.98725 298.43525 302.88325 307.33125 309.99525 314.44325 316.21925 320.66725 325.11524 327.33924 333.11524 337.56324 339.78724 344.23524 348.68324 353.13124 357.13124 361.57923 363.80323 369.13923 371.80323 376.25123 378.02723 382.47523 386.47523 388.69923 390.92323 393.58723 395.81123 401.58723 406.03523 407.81123 412.25923 416.7072 421.1552 423.8192 428.2672 430.4912 434.9392 437.6032">Machine Learning Database Project - Colaboratory</tspan></text>
+</g>
+<clipPath id="cp110">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 0 3200.0003 L 2358.3336 3200.0003 L 2358.3336 3237.5003 L 0 3237.5003 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp110)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="26.453125 30.901125 33.125127 35.349126 39.797128 43.797128 46.021127 48.245126 50.469125 54.469125 58.917127 60.693128 65.14113 69.58913 71.813129 74.47713 78.925128 82.925128 87.37312 91.82112 94.48512 98.48512 102.93312 105.15712 109.60512 114.053119 118.501117 122.94911 124.72511 129.17311 131.39711 135.39711 139.84511 146.50911 148.73311 153.1811 155.84511 157.62111 161.62111 166.0691 168.2931 172.7411 176.7411 178.5171 184.2931 188.7411 193.6291 197.6291 203.4051 210.0691 214.5171 218.5171 222.9651 228.3011 232.7491 239.4131 243.4131 249.1891 254.9651 257.6291 262.5171 266.9651 271.4131 276.74909 280.74909 285.19709 289.07814 296.63014 298.85414 303.30213 307.75013 310.41413 314.86213 321.52613 325.97413 329.97413 333.97413 336.63813 341.08613 342.86213 344.63813 348.64454 353.09254 357.76454 362.21253 366.66053 372.43653 376.88453 380.88453 385.77253 391.10853 395.10853 400.44453 407.10853 413.33253 419.99653 425.33253 429.78053 432.44453 434.22053 438.66853 440.89253 447.55653 452.00453 456.4525 460.9005 465.5725 467.7965 470.4605 474.9085">https://colab.research.google.com/drive/1siw_FvUMuz4E8msCCrT42PyuLWtborgM#scrollTo=boRLxFKsSmOm&#x0026;printMode=true</tspan></text>
+</g>
+<clipPath id="cp111">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 2358.3336 3200.0003 L 2550.0003 3200.0003 L 2550.0003 3237.5003 L 2358.3336 3237.5003 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp111)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="569.9531">9</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="574.3906">/</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="8" font-family="ArialMT"><tspan y="775" x="576.6094 581.0574">15</tspan></text>
+</g>
+<clipPath id="cp112">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp112)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 0 0 L 740 0 L 740 14482 L 0 14482 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp113">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp113)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 0 0 L 740 0 L 740 14457 L 0 14457 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp114">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp114)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 0 0 L 740 0 L 740 14457 L 0 14457 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 17 L 736 17 L 736 14057 L 18 14057 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 7704 L 736 7704 L 736 8106 L 18 8106 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 7704 L 736 7704 L 736 7956 L 18 7956 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 7714 L 728 7714 L 728 7956 L 18 7956 Z " fill="#ffffff"/>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7846" x="24 31.7 39.4 47.100004 54.800004">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7846" x="62.484376">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7846" x="77.86914 85.56914 93.269138 100.96913 108.66913 116.369129 124.06912 131.76912 139.46912">---------</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7846" x="154.82813">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7846" x="162.51563"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="24 31.7 39.4 47.100004 54.800004">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="62.484376">(</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="70.171878 77.87187 85.57187 93.271869 100.97186 108.67186 116.37186 124.07185 131.77185 139.47185 147.17185 154.87184 162.57184 170.27184 177.97183 185.67183 193.37183 201.07183">"Female students:"</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="208.71875">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="216.40625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="224.09375 231.79375 239.49375">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="247.17188">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="254.85938 262.5594 270.2594 277.9594 285.65943 293.35945 301.05946 308.75947 316.45948 324.1595 331.8595 339.5595">train_female</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="347.21876">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="354.90626 362.60627 370.30628"> / </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="377.98439 385.6844 393.3844">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="401.0625">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="408.75 416.45 424.15003 431.85005 439.55006 447.25007 454.95008">train_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="462.625 470.325">))</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7865" x="478.01564"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="24 31.7 39.4 47.100004 54.800004">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="62.484376">(</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="70.171878 77.87187 85.57187 93.271869 100.97186 108.67186 116.37186 124.07185 131.77185 139.47185 147.17185 154.87184 162.57184 170.27184 177.97183 185.67183 193.37183 201.07183">"Male students:  "</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="208.71875">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="216.40625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="224.09375 231.79375 239.49375">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="247.17188">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="254.85938 262.5594 270.2594 277.9594 285.65943 293.35945 301.05946 308.75947 316.45948 324.1595">train_male</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="331.82814">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="339.51564 347.21565 354.91566"> / </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="362.59376 370.29377 377.99378">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="385.67189">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="393.35939 401.0594 408.7594 416.4594 424.15943 431.85945 439.55946">train_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="447.23439 454.9344">))</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7884" x="462.625"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7903" x="24 31.7 39.4 47.100004 54.800004">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7903" x="62.484376 70.18437">()</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7903" x="77.875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="24 31.7 39.4 47.100004 54.800004">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="62.484376">(</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="70.171878 77.87187 85.57187 93.271869 100.97186 108.67186 116.37186 124.07185 131.77185 139.47185 147.17185 154.87184 162.57184 170.27184 177.97183 185.67183 193.37183">"Urban students:"</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="201.01563">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="208.70313"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="216.39063 224.09062 231.79062">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="239.46875">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="247.15625 254.85625 262.55625 270.25627 277.95628 285.65629 293.3563 301.0563 308.75633 316.45634 324.15635">train_urban</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="331.8125">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="339.5 347.2 354.90003"> / </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="362.57814 370.27815 377.97816">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="385.65626">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="393.34376 401.04377 408.74378 416.4438 424.1438 431.8438 439.54383">train_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="447.21876 454.91877">))</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7922" x="462.60939"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="24 31.7 39.4 47.100004 54.800004">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="62.484376">(</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="70.171878 77.87187 85.57187 93.271869 100.97186 108.67186 116.37186 124.07185 131.77185 139.47185 147.17185 154.87184 162.57184 170.27184 177.97183 185.67183 193.37183">"Rural students:"</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="201.01563">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="208.70313"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="216.39063 224.09062 231.79062">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="239.46875">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="247.15625 254.85625 262.55625 270.25627 277.95628 285.65629 293.3563 301.0563 308.75633 316.45634 324.15635">train_rural</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="331.8125">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="339.5 347.2 354.90003"> / </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="362.57814 370.27815 377.97816">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="385.65626">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="393.34376 401.04377 408.74378 416.4438 424.1438 431.8438 439.54383">train_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="447.21876 454.91877">))</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7941" x="462.60939"> </tspan></text>
+</g>
+<clipPath id="cp115">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 302.08335 486.45899 L 2417.7083 486.45899 L 2417.7083 920.834 L 302.08335 920.834 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp115)">
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7977" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998">Train data</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7977" x="139.96875"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7994" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979">---------</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="7994" x="132.26563"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8012" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003">Female students: 0.6101321585903083</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8012" x="332.39064"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8029" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003">Male students:   0.3898678414096916</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8029" x="332.39064"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8064" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1">Urban students: 0.7180616740088106</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8064" x="324.70314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8081" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003">Rural students: 0.28193832599118945</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8081" x="332.39064"> </tspan></text>
+</g>
+<clipPath id="cp116">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp116)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8118 L 736 8118 L 736 8189 L 18 8189 Z " fill="#ffffff"/>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="26" font-family="Roboto"><tspan y="8160" x="26 33.072 47.424 62.088 75.868007 90.454 104.234 118.586 133.25 147.03 161.382 174.98001">Independence</tspan></text>
+</g>
+<clipPath id="cp117">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 1055.209 L 189.58335 1055.209 L 189.58335 1136.459 L 120.833339 1136.459 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp117)">
+<path transform="matrix(.8125,0,0,.8125,26,253.25016)" d="M 7 10 L 12 15 L 17 10 L 7 10 Z " fill="#d5d5d5"/>
+</g>
+<clipPath id="cp118">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp118)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8201 L 736 8201 L 736 8421 L 18 8421 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8201 L 736 8201 L 736 8316 L 18 8316 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8211 L 728 8211 L 728 8316 L 18 8316 Z " fill="#ffffff"/>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8225" x="24 31.7 39.4 47.100004">from</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8225" x="54.78125 62.48125 70.18125 77.88125 85.581249 93.28124 100.98124 108.68124 116.38123"> sklearn </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8225" x="124.046878 131.74687 139.44687 147.14687 154.84687 162.54686">import</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8225" x="170.21875 177.91875 185.61875 193.31874 201.01874 208.71874 216.41873 224.11873 231.81873 239.51873 247.21872 254.91872 262.6187"> linear_model</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8225" x="270.28126"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8263" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999">num_train = </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8263" x="116.359378 124.05937 131.75937">len</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8263" x="139.4375">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8263" x="147.125 154.825 162.525 170.22499 177.92499 185.62499 193.32498">train_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8263" x="201">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8263" x="208.6875"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8282" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996 224.19995 231.89995 239.59995 247.29994 254.99994 262.69996 270.39997 278.09999 285.8 293.5 301.2">cls = linear_model.LogisticRegression</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8282" x="308.79689">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8282" x="316.48439 324.1844 331.8844 339.5844 347.28443 354.98445 362.68446 370.38447 378.08448">max_iter=</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8282" x="385.75 393.45 401.15003 408.85005 416.55006 424.25007">100000</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8282" x="431.92189">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8282" x="439.60939"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008">cls.fit</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="77.875">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="85.5625 93.2625 100.962497 108.66249 116.36249 124.062488 131.76248">train_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="139.4375">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="147.125 154.825 162.525 170.22499 177.92499 185.62499 193.32498 201.02498"> train_y</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="208.70313">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8301" x="216.39063"> </tspan></text>
+</g>
+<clipPath id="cp119">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 302.08335 1611.459 L 2417.7083 1611.459 L 2417.7083 1936.459 L 302.08335 1936.459 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp119)">
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8337" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025 471.10026 478.80027 486.50028 494.2003 501.9003 509.6003 517.3003 525.0003 532.7003 540.4003 548.10037 555.80038 563.50039 571.2004 578.9004 586.6004 594.3004 602.0004 609.70046 617.40048 625.10049 632.8005 640.5005">LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8337" x="647.9844"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8354" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025 471.10026 478.80027 486.50028 494.2003 501.9003 509.6003 517.3003 525.0003 532.7003 540.4003 548.10037 555.80038 563.50039 571.2004 578.9004 586.6004 594.3004 602.0004">                   intercept_scaling=1, l1_ratio=None, max_iter=100000,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8354" x="609.5"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8372" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025 471.10026 478.80027 486.50028 494.2003 501.9003 509.6003 517.3003 525.0003 532.7003 540.4003 548.10037 555.80038">                   multi_class='auto', n_jobs=None, penalty='l2',</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8372" x="563.3125"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8389" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025 471.10026 478.80027 486.50028 494.2003 501.9003 509.6003 517.3003 525.0003 532.7003 540.4003 548.10037 555.80038 563.50039 571.2004 578.9004 586.6004 594.3004 602.0004 609.70046 617.40048 625.10049 632.8005 640.5005">                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8389" x="647.9844"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8407" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004">                   warm_start=False)</tspan></text>
+</g>
+<clipPath id="cp120">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp120)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8433 L 736 8433 L 736 8583 L 18 8583 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8433 L 736 8433 L 736 8548 L 18 8548 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8443 L 728 8443 L 728 8548 L 18 8548 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8457" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996">predictions = cls.predict</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8457" x="216.42188">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8457" x="224.10938 231.80937 239.50937 247.20937 254.90937 262.60939">test_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8457" x="270.28126">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8457" x="277.96876"> </tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998 131.79999 139.49999 147.19998 154.89998 162.59998 170.29998 177.99997 185.69997 193.39997 201.09996 208.79996 216.49996">overall_scores = cls.score</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="224.125">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="231.8125 239.5125 247.2125 254.91249 262.6125 270.3125">test_x</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="277.98439">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="285.67189 293.3719 301.0719 308.7719 316.47193 324.17195 331.87196"> test_y</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="339.54689">)</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8495" x="347.23439"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8533" x="24 31.7 39.4 47.100004 54.800004 62.500005 70.200008 77.9 85.6 93.299999 100.99999 108.69999 116.39999 124.09998">overall_scores</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8533" x="131.75"> </tspan></text>
+</g>
+<clipPath id="cp121">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 302.08335 2336.459 L 2417.7083 2336.459 L 2417.7083 2442.709 L 302.08335 2442.709 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp121)">
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8569" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995">0.9230769230769231</tspan></text>
+</g>
+<clipPath id="cp122">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 120.833339 120.833988 L 2433.3333 120.833988 L 2433.3333 3183.334 L 120.833339 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp122)">
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8595 L 736 8595 L 736 8833 L 18 8833 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8595 L 736 8595 L 736 8653 L 18 8653 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8605 L 728 8605 L 728 8653 L 18 8653 Z " fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,29,-5850.9997)" d="M 18 8605 L 728 8605 L 728 8653 L 18 8653 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp123">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 195.83335 2511.459 L 2433.3333 2511.459 L 2433.3333 2661.459 L 195.83335 2661.459 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp123)">
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="14" x="0 7.7000005 15.400001 23.1">from</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="14" x="30.78125 38.48125 46.18125 53.881254 61.581254 69.28125 76.98125 84.681247 92.38124 100.08124 107.781238 115.48123 123.18123 130.88123 138.58123 146.28122 153.98122"> sklearn.metrics </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="14" x="161.625 169.325 177.025 184.72499 192.42499 200.12499">import</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="14" x="207.79688 215.49687 223.19687 230.89687 238.59687 246.29686 253.99686 261.69688 269.39689 277.0969 284.7969 292.49693 300.19694 307.89695 315.59696 323.29698 330.99699 338.697 346.397 354.09703 361.79704 369.49705"> classification_report</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="0 7.7000005 15.400001 23.1 30.800002">print</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="38.484376">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="46.171876 53.871877 61.571878 69.27187 76.97187 84.67187 92.371868 100.07186 107.77186 115.471858 123.17185 130.87186 138.57186 146.27185 153.97185 161.67185 169.37184 177.07184 184.77184 192.47183 200.17183">classification_report</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="207.8125">(</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="215.5 223.2 230.9 238.59999 246.29999 253.99999 261.69999 269.4 277.1 284.80003 292.50004">predictions</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="300.15626">,</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="307.84376 315.54377 323.24378 330.9438 338.6438 346.3438 354.04383"> test_y</tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 47 602.7501)" font-size="14" font-family="Consolas"><tspan y="33" x="361.71876 369.41877">))</tspan></text>
+</g>
+<clipPath id="cp124">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M 302.08335 2664.584 L 2417.7083 2664.584 L 2417.7083 3183.334 L 302.08335 3183.334 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp124)">
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8674" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025">              precision    recall  f1-score   support</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8674" x="470.95314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8709" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025">           0       0.68      0.76      0.72        25</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8709" x="470.95314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8726" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025">           1       0.96      0.95      0.96       170</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8726" x="470.95314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8768" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025">    accuracy                           0.92       195</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8768" x="470.95314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8785" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025">   macro avg       0.82      0.85      0.84       195</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8785" x="470.95314"> </tspan></text>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8803" x="63 70.7 78.399997 86.09999 93.79999 101.499988 109.19998 116.89998 124.599979 132.29998 139.99997 147.69997 155.39997 163.09996 170.79996 178.49996 186.19995 193.89995 201.59995 209.29994 216.99994 224.69994 232.39994 240.09993 247.79993 255.49993 263.19993 270.89994 278.59996 286.29997 293.99998 301.69999 309.4 317.1 324.80003 332.50004 340.20005 347.90007 355.60008 363.30009 371.0001 378.7001 386.40013 394.10014 401.80015 409.50016 417.20018 424.90019 432.6002 440.3002 448.0002 455.70024 463.40025">weighted avg       0.93      0.92      0.92       195</tspan></text>
+<g id="Layer-1" data-name="Span">
+</g>
+<text fill="#818181" xml:space="preserve" transform="matrix(.75 0 0 .75 29 -5850.9997)" font-size="14" font-family="Consolas"><tspan y="8803" x="470.95314"> </tspan></text>
+</g>
+</g>
+</svg>
