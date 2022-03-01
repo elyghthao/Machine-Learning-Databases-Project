@@ -20,10 +20,11 @@ Introduce the Logistic Regression model from the sklearn. From here create the m
 
 
 ### Data Seperation  
-Take the data percetage comparisons and put them into graphs to better visualize data. In this case, display the ROC curves.
+Take the data percentage comparisons and put them into graphs to better visualize data. In this case, display the ROC curves.
 <img src="./Machine Learning Database Project PDF/Machine Learning Database Project - PDF-11.svg">
 <img src="./Machine Learning Database Project PDF/Machine Learning Database Project - PDF-12.svg">
 
 
 
-#### Above were just snippets of the code. To find the whole code and run it yourself, take a look at the Machine_Learning_Database_Project.ipynb
+#### Above were just snippets of the code. To find the whole code and run it yourself, take a look at the [Machine_Learning_Database_Project.ipynb](https://github.com/elyghthao/Machine-Learning-Databases-Project/blob/main/Machine_Learning_Database_Project.ipynb)
+
